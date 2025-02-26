@@ -1,0 +1,1 @@
+# GoogleCloud_EasyOCR_Project
